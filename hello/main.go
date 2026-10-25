@@ -7,5 +7,7 @@ func Greet(name string) string {
 }
 
 func main() {
-	fmt.Println(Greet("世界"))
+	var shuliang int
+	shuliang = 100
+	fmt.Print(shuliang)
 }
